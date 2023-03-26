@@ -1,5 +1,6 @@
 # mermaid_test
 
+```mermaid
 ---
 title: ERD example
 ---
@@ -50,3 +51,4 @@ erDiagram
         string unit
         string standard
     }
+```
